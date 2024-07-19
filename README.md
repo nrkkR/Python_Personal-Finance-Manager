@@ -47,23 +47,23 @@ personal-finance-manager/
 # Screenshots
 
 Main Interface
-<img align="center" alt="coding" width="400" src="https://github.com/nrkkR/Python_Unit-Converter/blob/main/unit%20converter%20py%201.png">
+<img align="center" alt="coding" width="800" src="https://github.com/nrkkR/Python_Personal-Finance-Manager/blob/main/pmf%20main%20menu.png">
 
 
 Adding Income
-<img align="center" alt="coding" width="400" src="https://github.com/nrkkR/Python_Unit-Converter/blob/main/unit%20converter%20py%201.png">
+<img align="center" alt="coding" width="800" src="https://github.com/nrkkR/Python_Unit-Converter/blob/main/unit%20converter%20py%201.png">
 
 
 Adding Expense
-<img align="center" alt="coding" width="400" src="https://github.com/nrkkR/Python_Unit-Converter/blob/main/unit%20converter%20py%201.png">
+<img align="center" alt="coding" width="800" src="https://github.com/nrkkR/Python_Unit-Converter/blob/main/unit%20converter%20py%201.png">
 
 
 Visualizing Data
-<img align="center" alt="coding" width="400" src="https://github.com/nrkkR/Python_Unit-Converter/blob/main/unit%20converter%20py%201.png">
+<img align="center" alt="coding" width="800" src="https://github.com/nrkkR/Python_Unit-Converter/blob/main/unit%20converter%20py%201.png">
 
 
 ## Credits
-<img align="center" alt="coding" width="400" src="https://github.com/nrkkR/Python_Unit-Converter/blob/main/unit%20converter%20py%201.png">
+<img align="center" alt="coding" width="800" src="https://github.com/nrkkR/Python_Unit-Converter/blob/main/unit%20converter%20py%201.png">
 
 
 - **Author**: Rajdeep Mondal
