@@ -59,12 +59,10 @@ Adding Expense
 
 
 Visualizing Data
-<img align="center" alt="coding" width="800" src="https://github.com/nrkkR/Python_Unit-Converter/blob/main/unit%20converter%20py%201.png">
+<img align="center" alt="coding" width="800" src="https://github.com/nrkkR/Python_Personal-Finance-Manager/blob/main/pmf%20piechart.png">
 
 
 ## Credits
-<img align="center" alt="coding" width="800" src="https://github.com/nrkkR/Python_Unit-Converter/blob/main/unit%20converter%20py%201.png">
-
 
 - **Author**: Rajdeep Mondal
 - **GitHub**: [nrkkR](https://github.com/nrkkR)
