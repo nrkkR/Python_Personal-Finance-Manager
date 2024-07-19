@@ -53,3 +53,10 @@ Adding Income
 Adding Expense
 
 Visualizing Data
+
+## Credits
+
+- **Author**: Rajdeep Mondal
+- **GitHub**: [nrkkR](https://github.com/nrkkR)
+- **LinkedIn**: [Rajdeep Mondal](https://www.linkedin.com/in/rajdeep-mondal)
+
